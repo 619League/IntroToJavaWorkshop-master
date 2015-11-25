@@ -8,9 +8,9 @@ public class MyFirstJavaProgram {
 		
 		// START HERE
  Robot nexus = new Robot ();
-  for (int i = 0; i < 4; i++) {  (nexus.move(100) nexus.turn(90);
-  
-  }
+//  for (int i = 0; i < 4; i++) {  (nexus.move(100) nexus.turn(90);
+//  
+//  }
 
 	
 }
